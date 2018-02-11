@@ -1,0 +1,15 @@
+Welcome to our project Connected House !
+
+You can now run 'bitbake <target>', common targets are:
+
+    - pi-project-base-image
+    - pi-project-qt-image
+    - pi-project-qt-image -c populate_sdk
+   __ _                      ___           _           _   
+  / /(_)_ __  _   ___  __   / _ \_ __ ___ (_) ___  ___| |_ 
+ / / | | '_ \| | | \ \/ /  / /_)/ '__/ _ \| |/ _ \/ __| __|
+/ /__| | | | | |_| |>  <  / ___/| | | (_) | |  __/ (__| |_ 
+\____/_|_| |_|\__,_/_/\_\ \/    |_|  \___// |\___|\___|\__|
+                                        |__/               
+                                        
+Signed-off-by : Romain Petit, Clément Laigle, Taha Menebhi & Clément Ailloud
