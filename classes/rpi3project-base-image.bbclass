@@ -27,4 +27,4 @@ IMAGE_INSTALL += " \
 	${MQTT_INSTALL} \
 "
 
-export IMAGE_BASENAME = "pi-project-base-image"
+export IMAGE_BASENAME = "rpi3project-base-image"
