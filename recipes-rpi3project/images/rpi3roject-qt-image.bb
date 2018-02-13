@@ -1,7 +1,7 @@
 DESCRIPTION = "Project PI Qt image"
 LICENSE = "MIT"
 
-inherit pi-project-base-image populate_sdk_qt5
+inherit rpi3project-base-image populate_sdk_qt5
 
 IMAGE_INSTALL += "\
 	qt5-env \
@@ -9,4 +9,4 @@ IMAGE_INSTALL += "\
 	packagegroup-qt \
 "
 
-export IMAGE_BASENAME = "pi-project-qt-image"
+export IMAGE_BASENAME = "rpi3project-qt-image"
